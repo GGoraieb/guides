@@ -219,14 +219,15 @@ Obs: o brainner pode preferir ser um **especialista** (e.g., N3 em algumas pouca
 
 `N1`
 
-- Crio fluxos e wireframes a partir do design de UX do produto
+- Crio wireframes a partir de User Flows definidos anteriormente
 - Desenho interfaces e elementos de UI com base em wireframes
 - Organizo os elementos visuais em um UI Kit reutilizável do produto
 - Faço o handoff dos assets e de interface e acompanho o uso deles no desenvolvimento do produto no frontend
 
 `N2`
 
-- Direciono e valido a criação de fluxos e wireframes
+- Direciono e valido a criação de User Flows
+- Crio a valido wireframes criados a partir de User Flows
 - Documento em style guide as definições de interface do produto
 - Faço design review das entregas de UI de outras pessoas do meu time
 - Utilizo versionamento de interfaces por meio de ferramentas
